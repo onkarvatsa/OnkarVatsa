@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - My name is **Onkar Sharma**
-- I am a **Full Stack Developer**
-- I have awarded **C# Corner MVP** _(Most Valuable Professional)_ **Award** 3 times :trophy:	:trophy:	:trophy:	
+- I am a **Full Stack Web Developer**
+- I have been awarded the **C# Corner MVP** _(Most Valuable Professional)_ **Award** 3 times :trophy:	:trophy:	:trophy:	
 - **Current Company:** Epay Systems, A Prismhr Company
 
 :writing_hand: **My Recent Articles**
